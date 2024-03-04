@@ -35,7 +35,7 @@ public class Main {
         int numberOfSheetsPerStudent = (totalNumberOfSheets / (numberOfStudentsLP
                         + numberOfStudentsAS + numberOfStudentsEA));
         System.out.println("На каждого ученика рассчитано " + numberOfSheetsPerStudent
-                + " листов бумаги");
+                + " листов бумаги.");
 
         // Задача 4
 
@@ -47,13 +47,13 @@ public class Main {
         short period3 = 24 * 60 * 3;
         int period4 = 24 * 60 * 30;
         System.out.println("За " + period1 + " минут машина произвела "
-                + machinePerformanceInMin * period1 + " штук бутылок");
+                + machinePerformanceInMin * period1 + " штук бутылок.");
         System.out.println("За " + period2 + " минут машина произвела "
-                + machinePerformanceInMin * period2 + " штук бутылок");
+                + machinePerformanceInMin * period2 + " штук бутылок.");
         System.out.println("За " + period3 + " минут машина произвела "
-                + machinePerformanceInMin * period3 + " штук бутылок");
+                + machinePerformanceInMin * period3 + " штук бутылок.");
         System.out.println("За " + period4 + " минут машина произвела "
-                + machinePerformanceInMin * period4 + " штук бутылок");
+                + machinePerformanceInMin * period4 + " штук бутылок.");
 
         // Задача 5
 
@@ -66,7 +66,7 @@ public class Main {
         int amountBrownPaintCans = (amountClasses * amountBrownPaintCansPerClass);
         System.out.println("В школе, где " + amountClasses + " классов, нужно "
                 + amountWhitePaintCans + " банок белой краски и " + amountBrownPaintCans
-                + " банок коричневой краски");
+                + " банок коричневой краски.");
 
         // Задача 6
 
