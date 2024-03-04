@@ -7,7 +7,7 @@ public class Main {
         short number2 = 128;
         int number3 = 32768;
         long number4 = 2147483648L;
-        float number5 = 0.999f;
+        float number5 = 0.99999f;
         double number6 = 0.999999999;
         System.out.println("Значение переменной number1 с типом byte равно " + number1);
         System.out.println("Значение переменной number2 с типом short равно " + number2);
